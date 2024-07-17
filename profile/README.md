@@ -1,6 +1,6 @@
 # Nura Software: Open Source software and custom web development 
 
-## Free and Open Source Software for businesses, teams, collaboration, communities or personal websites.
+## #1 Open Source Software for businesses, teams, collaboration, communities or personal websites.
 
 With over 20 years of experience in web development, we create modern and high-quality software for every need.
 
